@@ -1,0 +1,21 @@
+/* pages/my/my.wxss */
+.container{
+
+  display: flex;
+  flex-direction: column;
+  
+  background-color: #990000;
+  height: 1334rpx;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.funitem{
+align-content: left;
+height: 200rpx;
+background-color: #999999;
+color:#0000ff;
+flex-wrap: nowrap;
+}
+text{
+  flex-wrap: nowrap;
+}

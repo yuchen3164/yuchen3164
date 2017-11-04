@@ -1,0 +1,17 @@
+<view class="container">
+  
+<view class="header">
+
+  </view>
+  <view class='body'>
+    <view class="funitem">
+      <image></image>
+      <text>四项竞赛</text>
+    </view>
+    <view class='divborder'>
+    </view>
+  </view>
+  <view class="footer">
+
+  </view>
+</view>

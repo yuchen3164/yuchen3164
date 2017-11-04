@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/my/my",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/classRace/classRacewrite",
+    "pages/classRaceBrowser/classRaceBrowser",
+    "pages/schoolInfo/schoolRegister/schoolRegister"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "宇成教育信息管理平台",
+    "navigationBarTextStyle": "black"
+  }
+}
