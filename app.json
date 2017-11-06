@@ -1,17 +1,35 @@
 {
   "pages": [
+        "pages/index/index",
+    "pages/welcome/welcome",
     "pages/my/my",
-    "pages/index/index",
+
     "pages/logs/logs",
-    "pages/classRace/classRacewrite",
-    "pages/classRaceBrowser/classRaceBrowser",
-    "pages/schoolInfo/schoolRegister/schoolRegister"
-    
+    "pages/business/classRace/classRacewrite",
+    "pages/business/classRaceBrowser/classRaceBrowser",
+    "pages/schoolInfo/schoolRegister/schoolRegister",
+    "pages/business/business"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "宇成教育信息管理平台",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "校园通讯录"
+      },
+      {
+        "pagePath": "pages/business/index",
+        "text": "工作坊"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "工作坊"
+      }
+    ]
   }
 }
