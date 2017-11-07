@@ -1,4 +1,5 @@
 // pages/welcome/welcome.js
+var common =require('../../utils/common.js');
 Page({
 
   /**

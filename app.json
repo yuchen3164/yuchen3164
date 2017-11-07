@@ -1,9 +1,8 @@
 {
   "pages": [
-        "pages/index/index",
     "pages/welcome/welcome",
+    "pages/index/index",
     "pages/my/my",
-
     "pages/logs/logs",
     "pages/business/classRace/classRacewrite",
     "pages/business/classRaceBrowser/classRaceBrowser",

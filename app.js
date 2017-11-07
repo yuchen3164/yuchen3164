@@ -1,4 +1,4 @@
-//app.js
+//app.js主程序的入口
 
 App({
   onLaunch: function (options) {
